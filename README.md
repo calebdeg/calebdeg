@@ -1,4 +1,4 @@
-<h1>Hi, I'm Caleb! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Front End Web Developer</a>, <a href="https://www.youtube.com/channel/UCd-V1a7EIUFmSyZYKPfpqdA">YouTuber</a></h1>
+<h1>Hi, I'm Caleb! <br/><a href="https://www.linkedin.com/in/calebdegeorge/">Front End Web Developer</a>, <a href="https://www.youtube.com/channel/UCd-V1a7EIUFmSyZYKPfpqdA">YouTuber</a></h1>
 
 <h2>👨‍💻 Front End Development Projects:</h2>
 
