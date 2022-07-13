@@ -22,7 +22,7 @@
 [<img align="left" alt="CalebDeGeorge | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="CalebDeGeorge | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: (https://www.youtube.com/channel/UCd-V1a7EIUFmSyZYKPfpqdA)
+[youtube]: https://www.youtube.com/channel/UCd-V1a7EIUFmSyZYKPfpqdA
 [instagram]: https:/https://www.instagram.com/dig.belac/
 [linkedin]: https://https://www.linkedin.com/in/calebdegeorge/
 
