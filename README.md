@@ -8,7 +8,7 @@
   - [Recipe App](https://github.com/calebdeg/RecipeApp)
   - [Quiz App](https://github.com/calebdeg/QuizApp)
 - <b>Tools<b/>
-  - [Countdown Timer]
+  - [Countdown Timer](https://github.com/calebdeg/CountDownTimer)
 - <b>Games</b>
   - [Matching Game]
   
