@@ -23,8 +23,8 @@
 [<img align="left" alt="CalebDeGeorge | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [youtube]: https://www.youtube.com/channel/UCd-V1a7EIUFmSyZYKPfpqdA
-[instagram]: https:/https://www.instagram.com/dig.belac/
-[linkedin]: https://https://www.linkedin.com/in/calebdegeorge/
+[instagram]: https://www.instagram.com/dig.belac/
+[linkedin]: https://www.linkedin.com/in/calebdegeorge/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
