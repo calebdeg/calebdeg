@@ -5,7 +5,7 @@
 - <b>Design/UI Skills</b>
   - [Profile Site](https://github.com/calebdeg/ProfileSite)
 - <b>API Skills</b>
-  - [Recipe App]
+  - [Recipe App](https://github.com/calebdeg/RecipeApp)
   - [Quiz App]
 - <b>Tools<b/>
   - [Countdown Timer]
