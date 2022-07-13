@@ -3,7 +3,7 @@
 <h2>👨‍💻 Front End Development Projects:</h2>
 
 - <b>Design/UI Skills</b>
-  - [Profile Site]
+  - [Profile Site](https://github.com/calebdeg/ProfileSite)
 - <b>API Skills</b>
   - [Recipe App]
   - [Quiz App]
