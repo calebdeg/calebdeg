@@ -6,11 +6,11 @@
   - [Profile Site](https://github.com/calebdeg/ProfileSite)
 - <b>API Skills</b>
   - [Recipe App](https://github.com/calebdeg/RecipeApp)
-  - [Quiz App](https://github.com/calebdeg/QuizApp)
 - <b>Tools<b/>
   - [Countdown Timer](https://github.com/calebdeg/CountDownTimer)
 - <b>Games</b>
   - [Matching Game](https://github.com/calebdeg/MatchingGame)
+  - [Quiz App](https://github.com/calebdeg/QuizApp)
   
 <h2>Certifications</h2>
 
