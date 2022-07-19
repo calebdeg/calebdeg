@@ -11,10 +11,6 @@
 - <b>Games</b>
   - [Matching Game](https://github.com/calebdeg/MatchingGame)
   - [Quiz App](https://github.com/calebdeg/QuizApp)
-  
-<h2>Certifications</h2>
-
-- <b><a href="https://drive.google.com/file/d/1QR2fLhBvCsQjPFmAPuprYq_y_sn6oWaZ/view?usp=sharing">Nucamp Web Development<a/></b>
 
 <h2> 🤳 Connect with me:</h2>
 
